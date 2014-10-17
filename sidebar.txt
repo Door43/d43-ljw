@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ljw:home|Door43 (ljw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ljw|d43-ljw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ljw/archive/master.zip|d43-ljw.zip]]
+
+**Recent Changes**
+{{changes>ns = ljw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ljw|Ethnologue data]]
+
